@@ -11,7 +11,7 @@ Summary: This repository contains R code and some outputs of spatial predictions
 
 # Download Maps
 
-All maps are available for download under the [Open Database License (ODbl) v1.0](https://opendatacommons.org/licenses/odbl/) and can be downloaded from [www.isric.org](http://gsif.isric.org/doku.php/wiki:africa_nutrient_maps) without restrictions.
+All maps are available for download under the [Open Database License (ODbl) v1.0](https://opendatacommons.org/licenses/odbl/) and can be downloaded via [WCS](https://www.ogc.org/nl/publications/standard/wcs/) from [www.isric.org](https://maps.isric.org/mapserv?map=/map/af250m_nutrient.map&request=getcapabilities&service=wfs) without restrictions.
 
 # Disclaimer
 
